@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Татьяна Бак](https://up.htmlacademy.ru/javascript/23/user/74274).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктор Кан](https://htmlacademy.ru/profile/viktorkan).
 
 ---
 
